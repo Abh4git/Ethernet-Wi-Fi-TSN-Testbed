@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 WiFi AP Placement Tool using ITU‑R P.1238 (site‑general model) + Extension APs
-
+Testbed Project
 Features
 --------
 - P.1238 path loss: L = 20*log10(f_MHz) - 28 + N * log10(d) + Lf(n), d >= 1 m
@@ -16,7 +16,8 @@ Features
 
 Usage
 -----
-python3 wifi_coverage_p1238.py --config example_floorplan.json
+python3 wifi_coverage_p1238.py 
+Configuration already included as default : example_floorplanv1.json
 (Heatmap shows by default; no need for a --plot flag)
 
 JSON config keys (selected)
