@@ -13,7 +13,7 @@ Running PTP Synchronization , Correct IP Set
 ## setupenvironment  
 
 sudo ip add add 192.168.1.50/24 dev enp3s0    
-### Mandatory - Disable firwalls   
+### Mandatory - Disable firwalls and Start PTP service    
 sudo systemctl stop firewalld  
 sudo ufw disable  
 ifconfig   
