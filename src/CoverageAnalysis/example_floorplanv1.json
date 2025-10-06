@@ -1,0 +1,59 @@
+{
+  "width_m": 30.0,
+  "height_m": 20.0,
+  "grid_res_m": 1.0,
+  "f_MHz": 5200.0,
+  "N": 31.0,
+  "Pt_dBm": 20.0,
+  "Gt_dBi": 3.0,
+  "Gr_dBi": 0.0,
+  "floors_between": 0,
+  "Lf_table": {
+    "1": 16.0
+  },
+  "target_rssi_dBm": -67.0,
+  "candidate_step_m": 6.0,
+  "walls": [
+    {
+      "x1": 0.0,
+      "y1": 10.0,
+      "x2": 30.0,
+      "y2": 10.0,
+      "loss_dB": 6.0
+    },
+    {
+      "x1": 0.0,
+      "y1": 12.0,
+      "x2": 30.0,
+      "y2": 12.0,
+      "loss_dB": 6.0
+    },
+    {
+      "x1": 10.0,
+      "y1": 0.0,
+      "x2": 10.0,
+      "y2": 10.0,
+      "loss_dB": 3.0
+    },
+    {
+      "x1": 20.0,
+      "y1": 12.0,
+      "x2": 20.0,
+      "y2": 20.0,
+      "loss_dB": 3.0
+    }
+  ],
+  "main_ap_count": 2,
+  "main_seed_positions": [
+    [
+      5.0,
+      5.0
+    ]
+  ],
+  "ext_ap_count": 1,
+  "ext_candidate_step_m": 6.0,
+  "ext_Pt_dBm": 18.0,
+  "ext_Gt_dBi": 2.0,
+  "backhaul_min_rssi_dBm": -65.0,
+  "backhaul_Gr_dBi": 0.0
+}
