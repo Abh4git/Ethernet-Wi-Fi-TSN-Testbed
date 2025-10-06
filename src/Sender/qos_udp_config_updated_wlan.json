@@ -1,0 +1,35 @@
+{
+    "sender": {
+        "ip": "192.168.0.50",
+        "mac": "1f:fe:04:78:75:1c",
+        "interface": "enp3s0"
+    },
+    "receiver": {
+        "ip": "192.168.0.188",
+        "mac": "d1:66:77:72:35:86"
+    },
+    "traffic_streams": {
+        "video": {
+            "interval_ms": 10,
+            "vlan_id": 100,
+            "dscp": 46,
+            "port": 5004
+        },
+        "vitals": {
+            "interval_ms": 10,
+            "vlan_id": 100,
+            "dscp": 34,
+            "port": 5006
+        },
+        "ehr": {
+            "interval_ms": 5,
+            "vlan_id": 100,
+            "dscp": 0,
+            "port": 5008
+        }
+      
+    },
+    "logging": {
+        "log_file": "traffic_log.csv"
+    }
+}
