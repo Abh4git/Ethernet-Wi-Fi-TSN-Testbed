@@ -1,6 +1,6 @@
 # Ethernet-Wi-Fi-TSN-Testbed
 End-to-End Ethernet-Wi-Fi-TSN Testbed with traffic aligned to Telesurgery scenarios.   
-This repository is intended to share the source and configuration files as part of our work,
+This repository shares the source and configuration files as part of our work,
 'Ethernet-Wi-Fi Testbed for Telesurgery using Time-Sensitive Networking'
 
 ## Testbed Setup and Architecture  
