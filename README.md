@@ -9,5 +9,5 @@ The detailed architecture overview, setup are found in the pdf
 
 [Overview](https://github.com/Abh4git/Ethernet-Wi-Fi-TSN-Testbed/blob/main/Abhilash-Presentation-Journal-Telesurgery-WiredWiFiOct6v2.pdf)   
 
-[Dataset](https://ieee-dataport.org/documents/ethernet-wi-fi-testbed-scenarios-pcap-capture)
+[Companion Dataset](https://ieee-dataport.org/documents/ethernet-wi-fi-testbed-scenarios-pcap-capture)
 
